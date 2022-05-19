@@ -1,0 +1,22 @@
+{
+    "short_name": "AntiqueSwap",
+    "name": "AntiqueSwap( AQE )",
+    "description": "",
+    "homepage_url": "#",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "orientation": "portrait",
+    "icons": [{
+            "src": "favicon.ico",
+            "type": "image/x-icon",
+            "sizes": "256x256"
+        },
+        {
+            "src": "logo.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
